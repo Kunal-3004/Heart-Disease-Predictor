@@ -1,4 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/shsarv/Cardio-Monitor/main/static/heartlogo.png" width="50px" /> Cardio-Monitor</h1>
+<h1> <img src="https://raw.githubusercontent.com/shsarv/Cardio-Monitor/main/static/heartlogo.png" width="50px" /> Heart-Disease_Predictor</h1>
 
 **Ongoing Project**
 
@@ -40,4 +40,4 @@ will be attatched soon.
 <h3>License</h3> 
 <img src="https://www.vectorlogo.zone/logos/mitedu/mitedu-ar21.svg" width="100px" />
 
- **Created By - Sarvesh Kumar Sharma**
+ **Created By - Kunal Bansal**
