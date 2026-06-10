@@ -1,0 +1,620 @@
+[
+    {
+        "label": "count",
+        "importPath": "itertools",
+        "description": "itertools",
+        "isExtraImport": true,
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "chain",
+        "importPath": "itertools",
+        "description": "itertools",
+        "isExtraImport": true,
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "database",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "database",
+        "description": "database",
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "prediction",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "prediction",
+        "description": "prediction",
+        "detail": "prediction",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "visualization",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "visualization",
+        "description": "visualization",
+        "detail": "visualization",
+        "documentation": {}
+    },
+    {
+        "label": "pymongo",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "MongoClient",
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "isExtraImport": true,
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "MongoClient",
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "isExtraImport": true,
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "MinMaxScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "MinMaxScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "FigureCanvasAgg",
+        "importPath": "matplotlib.backends.backend_agg",
+        "description": "matplotlib.backends.backend_agg",
+        "isExtraImport": true,
+        "detail": "matplotlib.backends.backend_agg",
+        "documentation": {}
+    },
+    {
+        "label": "FigureCanvasAgg",
+        "importPath": "matplotlib.backends.backend_agg",
+        "description": "matplotlib.backends.backend_agg",
+        "isExtraImport": true,
+        "detail": "matplotlib.backends.backend_agg",
+        "documentation": {}
+    },
+    {
+        "label": "Figure",
+        "importPath": "matplotlib.figure",
+        "description": "matplotlib.figure",
+        "isExtraImport": true,
+        "detail": "matplotlib.figure",
+        "documentation": {}
+    },
+    {
+        "label": "Figure",
+        "importPath": "matplotlib.figure",
+        "description": "matplotlib.figure",
+        "isExtraImport": true,
+        "detail": "matplotlib.figure",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "modelbuild",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "modelbuild",
+        "description": "modelbuild",
+        "detail": "modelbuild",
+        "documentation": {}
+    },
+    {
+        "label": "dumps",
+        "importPath": "bson.json_util",
+        "description": "bson.json_util",
+        "isExtraImport": true,
+        "detail": "bson.json_util",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectId",
+        "importPath": "bson.objectid",
+        "description": "bson.objectid",
+        "isExtraImport": true,
+        "detail": "bson.objectid",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleImputer",
+        "importPath": "sklearn.impute",
+        "description": "sklearn.impute",
+        "isExtraImport": true,
+        "detail": "sklearn.impute",
+        "documentation": {}
+    },
+    {
+        "label": "seaborn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "seaborn",
+        "description": "seaborn",
+        "detail": "seaborn",
+        "documentation": {}
+    },
+    {
+        "label": "plot_importance",
+        "importPath": "xgboost",
+        "description": "xgboost",
+        "isExtraImport": true,
+        "detail": "xgboost",
+        "documentation": {}
+    },
+    {
+        "label": "cross_val_score",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "KNeighborsClassifier",
+        "importPath": "sklearn.neighbors",
+        "description": "sklearn.neighbors",
+        "isExtraImport": true,
+        "detail": "sklearn.neighbors",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "roc_auc_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "r2_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "mean_squared_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "joblib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "joblib",
+        "description": "joblib",
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "create_figure1",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def create_figure1(data1):\n    fig = plt.subplots(figsize =(12, 8))\n    barWidth = 0.25\n    normal = data1[0]\n    user = data1[1]\n    br1 = np.arange(len(normal))\n    br2 = [x + barWidth for x in br1]\n    # br3 = [x + barWidth for x in br2]\n    plt.bar(br1, normal, color ='g', width = barWidth,edgecolor ='grey', label ='Normal Value')\n    plt.bar(br2, user, color ='r', width = barWidth,edgecolor ='grey', label =\"Yours Value\")",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "create_figure2",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def create_figure2(data2):\n    fig = plt.subplots(figsize =(12, 8))\n    barWidth = 0.25\n    normal = data2[0]\n    user = data2[1]\n    br1 = np.arange(len(normal))\n    br2 = [x + barWidth for x in br1]\n    plt.bar(br1, normal, color ='g', width = barWidth,edgecolor ='grey', label ='Normal Value')\n    plt.bar(br2, user, color ='r', width = barWidth,edgecolor ='grey', label =\"Yours Value\")\n    plt.xlabel('Health status defining attributes', fontweight ='bold', fontsize = 15)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def home():\n    global counter2\n    counter2+=1\n    return render_template('home.html',all_count=counter2)\nglobal counter\ncounter=0\nglobal counter2\ncounter2=0\n@app.route('/predict',methods=['POST'])\ndef predict():",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "predict",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def predict():\n    global data1\n    global data2\n    global counter\n    global counter2\n    if request.method  == 'POST':\n        nameofpatient= request.form ['name']\n        age= request.form ['age']\n        sex=request.form ['sex']\n        cp= request.form ['cp']",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "about",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def about():\n    return render_template('disease.html')\n@app.errorhandler(500)\ndef internal_error(error):\n    return render_template('error.html')\n@app.errorhandler(404)\ndef not_found(error):\n    return \"404 error\",404\nif __name__ == '__main__':\n    app.run( debug = True)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "internal_error",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def internal_error(error):\n    return render_template('error.html')\n@app.errorhandler(404)\ndef not_found(error):\n    return \"404 error\",404\nif __name__ == '__main__':\n    app.run( debug = True)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "not_found",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def not_found(error):\n    return \"404 error\",404\nif __name__ == '__main__':\n    app.run( debug = True)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app = Flask ( __name__ )\n# @app.route('/plot1.png')\n# def plot_png1():\n#     fig = visualization.create_figure2(data1)\n#     output = io.BytesIO()\n#     FigureCanvas(fig).print_png(output)\n#     return Response(output.getvalue(), mimetype='image/png')\n# @app.route('/plot2.png')\n# def plot_png2():\n#     fig = visualization.create_figure2(data2)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "mongodbConncect",
+        "kind": 2,
+        "importPath": "database",
+        "description": "database",
+        "peekOfCode": "def mongodbConncect():\n    datalink=os.environ.get(\"DATABASE_LINK\")\n    myclient =MongoClient(datalink)\n    mydb = myclient[\"Heartpatientdatabase\"] \n    mycol = mydb[\"Heart_Data\"]\n    # df=pd.DataFrame(list(mycol.find({})))\n    # print(df.head())\n    return mycol\ndef crudprocess(age,sex,cp,trestbps,restecg,chol,fbs,thalach,exang,oldpeak,slope,ca,thal,result):   \n    if sex==\"male\":",
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "crudprocess",
+        "kind": 2,
+        "importPath": "database",
+        "description": "database",
+        "peekOfCode": "def crudprocess(age,sex,cp,trestbps,restecg,chol,fbs,thalach,exang,oldpeak,slope,ca,thal,result):   \n    if sex==\"male\":\n        sex=1\n    else: sex=0\n    if cp==\"Typical angina\":\n        cp=0\n    elif cp==\"Atypical angina\":\n        cp=1\n    elif cp==\"Non-anginal pain\":\n        cp=2",
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "crudOperation",
+        "kind": 2,
+        "importPath": "database",
+        "description": "database",
+        "peekOfCode": "def crudOperation(age,sex,cp,trestbps,restecg,chol,fbs,thalach,exang,oldpeak,slope,ca,thal,result):\n    data_dict=crudprocess(age,sex,cp,trestbps,restecg,chol,fbs,thalach,exang,oldpeak,slope,ca,thal,result)\n    data1=json.dumps(data_dict,separators=(',', ':'), sort_keys=True)\n    value = json.loads(data1)\n    try:\n        mycol=mongodbConncect()\n        mycol.insert(value)\n        print('Inserted 1 data to database')\n    except:\n        print('unable to insert', file=sys.stderr)",
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "import_content",
+        "kind": 2,
+        "importPath": "modelbuild",
+        "description": "modelbuild",
+        "peekOfCode": "def import_content(filepath):\n    mng_client = pymongo.MongoClient(\"mongodb+srv://shsarv:swatisahu@heart.9ynzc.mongodb.net/Heartpatientdatabase?retryWrites=true&w=majority\")\n    mng_db = mng_client['Heartpatientdatabase'] \n    collection_name = 'Heart_Data_new'\n    db_cm = mng_db[collection_name]\n    cdir = os.path.abspath('./')\n    file_res = os.path.join(cdir, filepath)\n    data = pd.read_csv(file_res)\n    data_json = json.loads(data.to_json(orient='records'))\n    db_cm.remove()",
+        "detail": "modelbuild",
+        "documentation": {}
+    },
+    {
+        "label": "mongodbConnect",
+        "kind": 2,
+        "importPath": "modelbuild",
+        "description": "modelbuild",
+        "peekOfCode": "def mongodbConnect():\n    datalink=os.environ.get(\"DATABASE_LINK\")\n    myclient =pymongo.MongoClient(datalink)\n    mydb = myclient[\"Heartpatientdatabase\"] \n    mycol = mydb[\"Heart_Data\"]\n    df=pd.DataFrame(list(mycol.find({},{'_id': False})))\n    df.drop_duplicates()\n    scal=MinMaxScaler()\n    feat=['age', 'sex', 'cp', 'trestbps', 'chol','fbs','restecg','thalach' ,'exang', 'oldpeak' ,'slope', 'ca', 'thal']\n    df[feat] = scal.fit_transform(df[feat])",
+        "detail": "modelbuild",
+        "documentation": {}
+    },
+    {
+        "label": "bulidmodel",
+        "kind": 2,
+        "importPath": "modelbuild",
+        "description": "modelbuild",
+        "peekOfCode": "def bulidmodel():\n    df=mongodbConnect()\n    y = df[\"target\"]\n    X = df.drop('target',axis=1)\n    X_train, X_test, Y_train, Y_test = train_test_split(X, y, test_size=0.20, random_state = 0)\n    Knn_clf=  KNeighborsClassifier(n_neighbors=7)\n    Knn_clf.fit(X_train,Y_train)\n    y_pred=Knn_clf.predict(X_test)\n    accuracy = accuracy_score(Y_test,y_pred)\n    if accuracy>0.9:",
+        "detail": "modelbuild",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess",
+        "kind": 2,
+        "importPath": "prediction",
+        "description": "prediction",
+        "peekOfCode": "def preprocess(age,sex,cp,trestbps,restecg,chol,fbs,thalach,exang,oldpeak,slope,ca,thal ):   \n    if sex==\"male\":\n        sex=1 \n    else: sex=0 \n    if cp==\"Typical angina\":\n        cp=0\n    elif cp==\"Atypical angina\":\n        cp=1\n    elif cp==\"Non-anginal pain\":\n        cp=2",
+        "detail": "prediction",
+        "documentation": {}
+    },
+    {
+        "label": "clfr",
+        "kind": 5,
+        "importPath": "prediction",
+        "description": "prediction",
+        "peekOfCode": "clfr = joblib.load(\"heartmodel.pkl\")\ndef preprocess(age,sex,cp,trestbps,restecg,chol,fbs,thalach,exang,oldpeak,slope,ca,thal ):   \n    if sex==\"male\":\n        sex=1 \n    else: sex=0 \n    if cp==\"Typical angina\":\n        cp=0\n    elif cp==\"Atypical angina\":\n        cp=1\n    elif cp==\"Non-anginal pain\":",
+        "detail": "prediction",
+        "documentation": {}
+    },
+    {
+        "label": "visualizationpreprocess",
+        "kind": 2,
+        "importPath": "visualization",
+        "description": "visualization",
+        "peekOfCode": "def visualizationpreprocess(age,sex,cp,trestbps,restecg,chol,fbs,thalach,exang,oldpeak,slope,ca,thal,result):\n    if sex==\"male\":\n        sex=1\n    else: sex=0\n    if cp==\"Typical angina\":\n        cp=0\n    elif cp==\"Atypical angina\":\n        cp=1\n    elif cp==\"Non-anginal pain\":\n        cp=2",
+        "detail": "visualization",
+        "documentation": {}
+    }
+]
