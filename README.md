@@ -1,8 +1,8 @@
-<h1> <img src="https://raw.githubusercontent.com/shsarv/Cardio-Monitor/main/static/heartlogo.png" width="50px" /> Heart-Disease_Predictor</h1>
+<h1> <img src="https://raw.githubusercontent.com/shsarv/Cardio-Monitor/main/static/heartlogo.png" width="50px" /> Heart-Disease-Predictor</h1>
 
 **Ongoing Project**
 
-Cardio Monotor is a web app that helps you to find out whether you are at a risk of developing a heart disease. **the model used for prediction has the accuracy of 92%.**
+Heart-Disease-Predictor is a web app that helps you to find out whether you are at a risk of developing a heart disease. **the model used for prediction has the accuracy of 92%.**
 
 This is the course project of subject Big Data Analytics (BCSE0158). THe Core Project is available... [here](https://github.com/shsarv/Heart-Disease-Prediction). 
 
